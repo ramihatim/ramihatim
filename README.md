@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramihatim
 - 👀 I’m a university student
-- 🌱 I’m currently learning java, python and R
+- 🌱 I’m currently learning Java, Python, R and JS
 
 - 📫 How to reach me ...
 - email: rami.hatim@rocketmail.com
